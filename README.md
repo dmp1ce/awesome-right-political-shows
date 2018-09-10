@@ -3,11 +3,11 @@ Awesome Right Political Shows [![Awesome](https://cdn.rawgit.com/sindresorhus/aw
 
 [Awesome](https://github.com/sindresorhus/awesome) list of shows related to right leaning politics according to the [political compass](https://www.politicalcompass.org/analysis2).
 
+The right often promote "political  individualism,  rationalism,  personal  responsibility,  low-time  preference,  capitalism,  ingenuity,  and  the  nuclear  family" as described in [White, Right and Libertarian](https://www.amazon.com/White-Right-Libertarian-Christopher-Rachels/dp/1979796521).
+
 - [Pro-right](#pro-right)
 - [Anti-right](#anti-right)
 - [License](#license)
-
-The right often promote "political  individualism,  rationalism,  personal  responsibility,  low-time  preference,  capitalism,  ingenuity,  and  the  nuclear  family" as described in [White, Right and Libertarian](https://www.amazon.com/White-Right-Libertarian-Christopher-Rachels/dp/1979796521).
 
 # Pro-right
 
