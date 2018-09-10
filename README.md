@@ -7,6 +7,8 @@ Awesome Right Political Shows [![Awesome](https://cdn.rawgit.com/sindresorhus/aw
 - [Anti-right](#anti-right)
 - [License](#license)
 
+The right often promote "political  individualism,  rationalism,  personal  responsibility,  low-time  preference,  capitalism,  ingenuity,  and  the  nuclear  family" as described in [White, Right and Libertarian](https://www.amazon.com/White-Right-Libertarian-Christopher-Rachels/dp/1979796521).
+
 # Pro-right
 
 * [Lauren Southern](https://laurensouthern.net/) - Creator of Farmlands documentary
