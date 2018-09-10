@@ -21,6 +21,7 @@ Awesome Right Political Shows [![Awesome](https://cdn.rawgit.com/sindresorhus/aw
 
 # Anti-right
 
+* [Rational Disconnect](https://www.youtube.com/channel/UCViO5gRp5Boa6QslAo-gPAQ) - videos about politics, social justice, and science
 * [Shaun](https://www.youtube.com/channel/UCJ6o36XL0CpYb6U5dNBiXHQ) - making video responses to videos put out by various anti-feminist/alt-right youtubers
 * [Three Arrows](https://www.youtube.com/channel/UCCT8a7d6S6RJUivBgNRsiYg) - Doing stuff about the bad history on the far-right and more
 * [White Privilege Podcast](http://interracialjawn.com/category/irjpresents/) - two militantly anti-racist white guys discuss white privilege, race and racism in America and give tips for white ally’s
